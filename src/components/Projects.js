@@ -44,7 +44,7 @@ function Projects() {
             <h2 className="card-title">Treasure Hunt</h2>
             <p>Treausre hunt game inspired by minesweeper made in HTML, CSS, and JS</p>
             <div className="card-actions justify-end">
-              <button className="btn btn-accent">Click to play</button>
+            <a href="https://acamberos1.github.io/" target="_blank" rel="noreferrer"><button className="btn btn-accent">Click to play</button></a>
             </div>
           </div>
         </div>
