@@ -19,7 +19,7 @@ export const Contact = () => {
   return (
 
     <>
-      <h1 class="text-center text-white text-5xl mb-10">Send me a message</h1>
+      <h1 class="text-center text-white text-5xl mb-10">Lets Collaborate</h1>
       <div className="space-y-2 flex justify-center">
         <form ref={form} onSubmit={sendEmail}>
 
