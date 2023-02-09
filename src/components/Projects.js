@@ -9,7 +9,7 @@ function Projects() {
     <>
       <h3 class="text-center mt-20 text-5xl tracking-tight font-extrabold text-white mb-10">Projects</h3>
 
-      <div class="grid grid-flow-col gap-4">
+      <div class="grid grid-flow-col gap-4 justify-center">
         <div className="card w-96 glass">
           <figure><img src={Cloudy} alt="Horizon with clouds overhead and dry brown grass on the land" /></figure>
           <div className="card-body">
